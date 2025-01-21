@@ -1,12 +1,14 @@
-<img align="right" height="164" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVibzY1eXZqaWsxYWp0aXV4dWhxMWJhd3I0YnBxbHZ5enMxNzQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nVcn3RT7QbsI9uo/giphy.gif"  />
-
-###
-
 <h1 align="center">Assignment 1</h1>
 
 ###
 
 <h5 align="center">Overview in ICT jobs in Industry with AirAsia</h5>
+
+###
+
+<div align="center">
+  <img height="164" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVibzY1eXZqaWsxYWp0aXV4dWhxMWJhd3I0YnBxbHZ5enMxNzQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6nVcn3RT7QbsI9uo/giphy.gif"  />
+</div>
 
 ###
 
@@ -26,11 +28,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRwNmp5eHVvNHRnOHpicmN4bWx2c3FvOG55emtnaGJwajkyMHV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m1AmKAdzcmJQd0voxv/giphy.gif"  />
+<h2 align="left">Pathways to a Career at AirAsia</h2>
 
 ###
 
-<h2 align="left">Pathways to a Career at AirAsia</h2>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRwNmp5eHVvNHRnOHpicmN4bWx2c3FvOG55emtnaGJwajkyMHV2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m1AmKAdzcmJQd0voxv/giphy.gif"  />
 
 ###
 
